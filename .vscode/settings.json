@@ -28,5 +28,8 @@
     "zsh": { "path": "/bin/zsh", "args": ["-l", "-i"] }
   },
   "commentTranslate.source": "TranSmart",
-  "commentTranslate.multiLineMerge": false
+  "commentTranslate.multiLineMerge": false,
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  }
 }
